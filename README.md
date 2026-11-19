@@ -170,8 +170,8 @@ The following screenshots are from the project's supplied application captures. 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/abhinavkarnata-stack/Network-Security-Compliance-Auditor.git
+cd Network-Security-Compliance-Auditor
 ```
 
 ### 2. Install dependencies
@@ -244,17 +244,13 @@ The following are proposed directions and are **not part of the current implemen
 - Exportable audit and compliance reports.
 - Real-time network monitoring and security event integration.
 
-## Team
 
-| Team Member | Roll Number |
-|---|---|
-| K. Abhinav | 25B11IT044 |
-| G. Siddardha Reddy | 25B11DS181 |
-| G. Dileep | 25B11AI361 |
 
 The project was developed collaboratively, with shared participation in planning, development, feature work, testing, integration, and documentation.
 
 ## Acknowledgements
+
+The project was developed collaboratively, with shared participation in planning, development, feature work, testing, integration, and documentation.
 
 Development and AI-assisted tools used during the project included ChatGPT, Claude, Magic Patterns, and Vercel.
 
